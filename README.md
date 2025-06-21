@@ -1,6 +1,6 @@
 #### :turtle: GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chochobible&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chochobible&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&&hide=stars&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
